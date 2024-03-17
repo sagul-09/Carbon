@@ -1,0 +1,722 @@
+{
+    "intents": [
+        {
+            "tag": "conversation_1",
+            "patterns": [
+                "hi",
+                "hey",
+                "hello",
+                "good day",
+                "greetings",
+                "howdy",
+                "hi there",
+                "what's up"
+            ],
+            "responses": [
+                "Hello! I'm Carbon, your AI assistant. How can I assist you today?"
+            ]
+        },
+        {
+            "tag": "conversation_2",
+            "patterns": [
+                "what is coal mining",
+                "define coal mining",
+                "explain coal mining",
+                "coal extraction process",
+                "how is coal mined"
+            ],
+            "responses": [
+                "Coal mining is the process of extracting coal from the ground, a vital source of energy worldwide."
+            ]
+        },
+        {
+            "tag": "conversation_3",
+            "patterns": [
+                "who is the Prime Minister of India",
+                "name the current PM of India",
+                "current Indian Prime Minister",
+                "India PM"
+            ],
+            "responses": [
+                "Narendra Modi"
+            ]
+        },
+        {
+            "tag": "conversation_4",
+            "patterns": [
+                "who is the coal minister of india",
+                "name the current coal minister of india",
+                "who holds the position of coal minister in india",
+                "Indian coal minister"
+            ],
+            "responses": [
+                "Pralhad Joshi"
+            ]
+        },
+        {
+            "tag": "conversation_5",
+            "patterns": [
+                "how many states in india produce coal",
+                "number of coal-producing states in india",
+                "Indian states with coal production"
+            ],
+            "responses": [
+                "There are 8 states in India that produce coal."
+            ]
+        },
+        {
+            "tag": "conversation_6",
+            "patterns": [
+                "name the states which produce coal in india",
+                "list states in india with coal production",
+                "Indian coal-producing states"
+            ],
+            "responses": [
+                "Chhattisgarh, Jharkhand, Madhya Pradesh, Odisha, and West Bengal."
+            ]
+        },
+        {
+            "tag": "conversation_7",
+            "patterns": [
+                "name of the state which produces more coal in india",
+                "which state in india produces the most coal",
+                "top coal-producing state in india"
+            ],
+            "responses": [
+                "Chhattisgarh is the leading coal-producing state in India."
+            ]
+        },
+        {
+            "tag": "conversation_8",
+            "patterns": [
+                "in india which state produces more coal",
+                "state in india with highest coal production",
+                "state with most coal production in india"
+            ],
+            "responses": [
+                "Jharkhand stands out as the primary coal-producing state in India."
+            ]
+        },
+        {
+            "tag": "conversation_9",
+            "patterns": [
+                "how does coal mining impact the environment",
+                "effects of coal mining on the environment",
+                "environmental impact of coal mining"
+            ],
+            "responses": [
+                "Coal mining adversely affects the environment through air pollution, water contamination, land disturbance, and climate change."
+            ]
+        },
+        {
+            "tag": "conversation_10",
+            "patterns": [
+                "methods to mitigate environmental issues caused by coal mining",
+                "how to reduce coal mining's environmental impact",
+                "environmentally friendly coal mining practices"
+            ],
+            "responses": [
+                "Preventive, mitigation, and remedial measures such as reclamation, landscaping, and pollution control can help reduce coal mining's environmental impact."
+            ]
+        },
+        {
+            "tag": "conversation_11",
+            "patterns": [
+                "what was india's coal production in 2023",
+                "coal production in india for 2023",
+                "2023 coal production in india"
+            ],
+            "responses": [
+                "India produced 716.2 million tonnes of coal in 2023."
+            ]
+        },
+        {
+            "tag": "conversation_12",
+            "patterns": [
+                "what is the current price of coal in india",
+                "coal price in india",
+                "current coal rates in india",
+                "cost of coal in india"
+            ],
+            "responses": [
+                "The price of coal in India varies based on type, quality, and location, averaging around Rs. 2,000 per tonne."
+            ]
+        },
+        {
+            "tag": "conversation_13",
+            "patterns": [
+                "which states in india are rich in coal",
+                "coal-rich states in india",
+                "coal-abundant states in india"
+            ],
+            "responses": [
+                "Jharkhand, Chhattisgarh, West Bengal, Odisha, and Madhya Pradesh are rich in coal reserves."
+            ]
+        },
+        {
+            "tag": "conversation_14",
+            "patterns": [
+                "how to obtain a license for coal mining in india",
+                "procedure for getting coal mining license in india",
+                "steps to acquire coal mining license in india"
+            ],
+            "responses": [
+                "Obtaining a coal mining license in India involves applying for a lease from the Ministry of Coal, obtaining necessary permits, and adhering to regulations."
+            ]
+        },
+        {
+            "tag": "conversation_15",
+            "patterns": [
+                "process of acquiring coal mining license in india",
+                "steps to get coal mining license in india",
+                "coal mining license acquisition procedure in india"
+            ],
+            "responses": [
+                "To acquire a coal mining license in India, you need to apply for a prospecting license, submit a mining plan, obtain a mining lease, and start mining operations."
+            ]
+        },
+        {
+            "tag": "conversation_16",
+            "patterns": [
+                "how many acts and laws govern the indian ministry of coal",
+                "number of laws governing coal ministry in india",
+                "legislations concerning indian coal ministry"
+            ],
+            "responses": [
+                "There are 10 acts and laws governing the Indian Ministry of Coal."
+            ]
+        },
+        {
+            "tag": "conversation_17",
+            "patterns": [
+                "recent legislations introduced by indian ministry of coal",
+                "latest laws enacted by indian coal ministry",
+                "new regulations by indian coal ministry"
+            ],
+            "responses": [
+                "The Indian Ministry of Coal has recently introduced several laws aimed at enhancing efficiency and transparency in the coal sector."
+            ]
+        },
+        {
+            "tag": "conversation_18",
+            "patterns": [
+                "how much revenue does india generate from coal mining",
+                "income from coal mining in india",
+                "revenue generated by indian coal mining"
+            ],
+            "responses": [
+                "India generates approximately 13.5 billion USD from coal mining."
+            ]
+        },
+        {
+            "tag": "conversation_19",
+            "patterns": [
+                "when is a coal mining report required in india",
+                "when do you need a coal mining report in india",
+                "mandatory coal mining report in india"
+            ],
+            "responses": [
+                "A coal mining report is required in India when initiating a new coal mining project, seeking financing, or acquiring permits."
+            ]
+        },
+        {
+            "tag": "conversation_20",
+            "patterns": [
+                "how is coal transported in india",
+                "transportation of coal in india",
+                "coal logistics in india"
+            ],
+            "responses": [
+                "Coal in India is primarily transported via railways, trucks, and conveyor belts."
+            ]
+        },
+        {
+            "tag": "conversation_21",
+            "patterns": [
+                "what is the global demand for coal",
+                "current global coal demand",
+                "worldwide coal demand"
+            ],
+            "responses": [
+                "The global demand for coal remains significant, driven by industrialization, electricity generation, and steel production."
+            ]
+        },
+        {
+            "tag": "conversation_22",
+            "patterns": [
+                "what are the major coal reserves in the world",
+                "world's largest coal reserves",
+                "major coal-producing countries"
+            ],
+            "responses": [
+                "The major coal reserves are found in countries like the United States, Russia, China, Australia, and India."
+            ]
+        },
+        {
+            "tag": "conversation_23",
+            "patterns": [
+                "how does coal contribute to global warming",
+                "coal's role in climate change",
+                "impact of coal on greenhouse gas emissions"
+            ],
+            "responses": [
+                "Coal combustion releases large amounts of carbon dioxide, a greenhouse gas, which contributes significantly to global warming and climate change."
+            ]
+        },
+        {
+            "tag": "conversation_24",
+            "patterns": [
+                "what is the future of coal in india",
+                "prospects of coal in india",
+                "coal industry outlook in india"
+            ],
+            "responses": [
+                "The future of coal in India depends on various factors such as energy policies, environmental concerns, technological advancements, and the growth of renewable energy sources."
+            ]
+        },
+        {
+            "tag": "conversation_25",
+            "patterns": [
+                "how does coal mining impact local communities",
+                "effects of coal mining on nearby residents",
+                "social implications of coal mining"
+            ],
+            "responses": [
+                "Coal mining can have significant social impacts on local communities, including displacement, health hazards, water pollution, and changes in livelihoods."
+            ]
+        },
+        {
+            "tag": "conversation_26",
+            "patterns": [
+                "advantages of coal as an energy source",
+                "benefits of using coal for energy",
+                "pros of coal energy"
+            ],
+            "responses": [
+                "Coal offers advantages such as abundant availability, reliability, affordability, and energy security."
+            ]
+        },
+        {
+            "tag": "conversation_27",
+            "patterns": [
+                "disadvantages of coal as an energy source",
+                "drawbacks of coal energy",
+                "cons of using coal for energy"
+            ],
+            "responses": [
+                "Coal has disadvantages including environmental pollution, contribution to climate change, health hazards, and finite reserves."
+            ]
+        },
+        {
+            "tag": "conversation_28",
+            "patterns": [
+                "what is clean coal technology",
+                "explain clean coal technology",
+                "clean coal technology definition"
+            ],
+            "responses": [
+                "Clean coal technology refers to various techniques and technologies aimed at reducing the environmental impact of coal combustion, such as carbon capture and storage, emissions controls, and efficiency improvements."
+            ]
+        },
+        {
+            "tag": "conversation_29",
+            "patterns": [
+                "is coal renewable or non-renewable",
+                "coal as a renewable resource",
+                "renewability of coal"
+            ],
+            "responses": [
+                "Coal is classified as a non-renewable resource because it takes millions of years to form and is finite in quantity."
+            ]
+        },
+        {
+            "tag": "conversation_30",
+            "patterns": [
+                "how can we reduce reliance on coal",
+                "ways to decrease dependence on coal",
+                "reducing coal consumption"
+            ],
+            "responses": [
+                "Reducing reliance on coal can be achieved through diversifying energy sources, promoting energy efficiency, investing in renewable energy technologies, and implementing policies to limit coal usage."
+            ]
+        },
+        {
+            "tag": "conversation_31",
+            "patterns": [
+                "who is the minister "
+            ],
+            "responses": [
+                "Pralhad Joshi"
+            ]
+        },
+        {
+            "tag": "conversation_32",
+            "patterns": [
+                "procedure to get coal mining license"
+            ],
+            "responses": [
+                "**Procedure to get coal mining license in the context of the Ministry of Coal India**\n\nThe Ministry of Coal is the nodal agency for the development and regulation of the coal industry in India. It is responsible for the allocation of coal blocks, the grant of coal mining leases, and the regulation of coal mining operations.\n\nThe following is the procedure for obtaining a coal mining license in the context of the Ministry of Coal India:\n\n1. **Application for coal block allocation**\n\nThe first step in obtaining a coal mining license is to apply for a coal block allocation. Applications for coal block allocation can be submitted online through the Ministry of Coal's website. The application must include the following information:\n\n* The name of the applicant\n* The proposed location of the coal mine\n* The proposed capacity of the coal mine\n* The proposed method of mining\n* The environmental impact assessment of the proposed coal mine\n\n2. **Evaluation of applications**\n\nThe Ministry of Coal will evaluate all applications for coal block allocation and select the most suitable applicants. The selection criteria include the following:\n\n* The technical and financial capability of the applicant\n* The environmental impact of the proposed coal mine\n* The social impact of the proposed coal mine\n\n3. **Allocation of coal blocks**\n\nThe Ministry of Coal will allocate coal blocks to the successful applicants. The allocation letter will include the following information:\n\n* The name of the coal block\n* The area of the coal block\n* The lease period\n* The royalty rate\n* The environmental and social conditions of the coal block\n\n4. **Grant of coal mining lease**\n\nThe successful applicants will need to apply for a coal mining lease from the Ministry of Coal. The application for a coal mining lease must include the following information:\n\n* The name of the applicant\n* The coal block number\n* The lease period\n* The proposed method of mining\n* The environmental management plan for the coal mine\n\n5. **Issuance of coal mining lease**\n\nThe Ministry of Coal will issue a coal mining lease to the successful applicants. The coal mining lease will include the following information:\n\n* The name of the applicant\n* The coal block number\n* The lease period\n* The royalty rate\n* The environmental and social conditions of the coal mine\n\n6. **Operation of coal mine**\n\nThe successful applicants will need to operate the coal mine in accordance with the terms and conditions of the coal mining lease. The coal mine must be operated in a safe and environmentally sustainable manner.\n\n7. **Renewal of coal mining lease**\n\nThe coal mining lease will need to be renewed at the end of the lease period. The renewal application must be submitted to the Ministry of Coal at least six months before the expiry of the lease period.\n\nThe Ministry of Coal will review the renewal application and decide whether to renew the coal mining lease. The renewal letter will include the following information:\n\n* The name of the coal block\n* The area of the coal block\n* The lease period\n* The royalty rate\n* The environmental and social conditions of the coal block\n\n8. **Termination of coal mining lease**\n\nThe Ministry of Coal may terminate a coal mining lease if the following conditions are met:\n\n* The coal mine is not operated in accordance with the terms and conditions of the coal mining lease.\n* The coal mine is causing environmental or social harm.\n* The coal mine is no longer economically viable.\n\nThe Ministry of Coal will issue a termination notice to the coal mining lessee. The termination notice will include the following information:\n\n* The date of termination\n* The reasons for termination\n* The procedures for surrendering the coal mining lease\n\nThe coal mining lessee will need to surrender the coal mining lease to the Ministry of Coal within 30 days of the date of termination."
+            ]
+        },
+        {
+            "tag": "conversation_33",
+            "patterns": [
+                "is there a coal plant in tamilnadu"
+            ],
+            "responses": [
+                "No, there is no coal plant in Tamil Nadu in the context of the Ministry of Coal India."
+            ]
+        },
+        {
+            "tag": "conversation_34",
+            "patterns": [
+                "how much 1kg coal costs"
+            ],
+            "responses": [
+                "'s website, the price of 1kg of coal is Rs. 165.00."
+            ]
+        },
+        {
+            "tag": "conversation_35",
+            "patterns": [
+                "major problems of coal mining"
+            ],
+            "responses": [
+                "* *Subsidence:* Subsidence is the sinking of the ground surface due to the extraction of coal from underground. This can cause damage to buildings and infrastructure, and can also lead to flooding.\n* *Water pollution:* Coal mining can pollute water sources through the leaching of chemicals from the coal seams into groundwater. This can contaminate drinking water and make it unsafe for human consumption.\n* *Air pollution:* Coal mining operations can release harmful pollutants into the air, including particulate matter, sulfur dioxide, and nitrogen oxides. These pollutants can cause respiratory problems and other health issues.\n* *Land degradation:* Coal mining can cause land degradation through the removal of vegetation and the creation of open pits. This can lead to soil erosion and the loss of biodiversity.\n* *Social impacts:* Coal mining can have a negative impact on the social fabric of communities, including through the displacement of people from their homes, the disruption of livelihoods, and the increased risk of accidents.\n\nThese are just some of the major problems associated with coal mining in India. It is important to be aware of these issues when considering the future of coal mining in the country."
+            ]
+        },
+        {
+            "tag": "conversation_36",
+            "patterns": [
+                "who is the coal minister"
+            ],
+            "responses": [
+                "Pralhad Joshi"
+            ]
+        },
+        {
+            "tag": "conversation_37",
+            "patterns": [
+                "who is the coal minister in 2016"
+            ],
+            "responses": [
+                "Piyush Goyal"
+            ]
+        },
+        {
+            "tag": "conversation_38",
+            "patterns": [
+                "who is the coal minister in 2015"
+            ],
+            "responses": [
+                "Piyush Goyal"
+            ]
+        },
+        {
+            "tag": "conversation_39",
+            "patterns": [
+                "who is the Pm"
+            ],
+            "responses": [
+                "Narendra Modi"
+            ]
+        },
+        {
+            "tag": "conversation_40",
+            "patterns": [
+                "who is the PM"
+            ],
+            "responses": [
+                "Narendra Modi"
+            ]
+        },
+        {
+            "tag": "conversation_41",
+            "patterns": [
+                "new rules issued by ministry of coal"
+            ],
+            "responses": [
+                "The Ministry of Coal has issued new rules for the coal sector. The rules aim to improve the transparency and efficiency of the coal sector, and to ensure that coal is mined in a sustainable manner.\n\nSome of the key changes in the new rules include:\n\n* **Increased transparency in the coal auction process.** The new rules require that all coal auctions be conducted through a transparent and competitive process. This will help to ensure that the coal is sold at a fair price, and that it is sold to the highest bidder.\n* **Improved environmental safeguards.** The new rules include a number of measures to improve the environmental safeguards for coal mining. These measures include requirements for environmental impact assessments, and for the rehabilitation of mined areas.\n* **Strengthened enforcement of the rules.** The new rules provide for stronger enforcement of the rules. This includes increased penalties for violations of the rules, and the establishment of a new Coal Mine Safety Authority to oversee the implementation of the rules.\n\nThe new rules are a significant step forward for the coal sector in India. They will help to improve the transparency, efficiency, and sustainability of the coal sector, and will help to ensure that coal is mined in a safe and environmentally responsible manner.\n\nHere are the links to the new rules:\n\n* [Coal Mines (Nationalisation) Amendment Rules, 2022](https://www.egazette.nic.in/WriteReadData/2022/161041.pdf)\n* [Coal Mines (Nationalisation) Rules, 1973](https://www.egazette.nic.in/WriteReadData/2022/161040.pdf)"
+            ]
+        },
+        {
+            "tag": "conversation_42",
+            "patterns": [
+                "who is the minster of coal"
+            ],
+            "responses": [
+                "Pralhad Joshi"
+            ]
+        },
+        {
+            "tag": "conversation_43",
+            "patterns": [
+                "which state produces more coal"
+            ],
+            "responses": [
+                "Jharkhand"
+            ]
+        },
+        {
+            "tag": "conversation_44",
+            "patterns": [
+                "list the states whihc produces coal"
+            ],
+            "responses": [
+                "* Chhattisgarh\n* Jharkhand\n* Madhya Pradesh\n* Odisha\n* West Bengal"
+            ]
+        },
+        {
+            "tag": "conversation_45",
+            "patterns": [
+                "how much coal is produced on average "
+            ],
+            "responses": [
+                "700 million tonnes"
+            ]
+        },
+        {
+            "tag": "conversation_46",
+            "patterns": [
+                "who is the minister of coal"
+            ],
+            "responses": [
+                "Pralhad Joshi"
+            ]
+        },
+        {
+            "tag": "conversation_47",
+            "patterns": [
+                "how to get coal mining license"
+            ],
+            "responses": [
+                "To get a coal mining license in India, you need to follow these steps:\n\n1. **Apply for a prospecting license.** This license allows you to explore for coal on a particular piece of land. You can apply for a prospecting license online through the Ministry of Coal website.\n2. **Submit a mining plan.** Once you have found coal on your land, you need to submit a mining plan to the Ministry of Coal. The mining plan must include details such as the location of the mine, the type of coal you will be mining, and the environmental impact of the mine.\n3. **Obtain a mining lease.** The Ministry of Coal will review your mining plan and, if it is approved, will issue you a mining lease. The mining lease gives you the right to mine coal on your land for a specified period of time.\n4. **Start mining.** Once you have a mining lease, you can start mining coal on your land. You must comply with all applicable laws and regulations, including the Mines and Minerals (Development and Regulation) Act, 1957.\n\n**Note:** The process of getting a coal mining license can take several months or even years. It is important to be patient and to follow all the necessary steps."
+            ]
+        },
+        {
+            "tag": "conversation_49",
+            "patterns": [
+                "whos is the minister"
+            ],
+            "responses": [
+                "Pralhad Joshi"
+            ]
+        },
+        {
+            "tag": "conversation_50",
+            "patterns": [
+                "how many states produces coal"
+            ],
+            "responses": [
+                "8"
+            ]
+        },
+        {
+            "tag": "conversation_51",
+            "patterns": [
+                "name the states which produces coal"
+            ],
+            "responses": [
+                "Chhattisgarh, Jharkhand, Madhya Pradesh, Odisha, West Bengal"
+            ]
+        },
+        {
+            "tag": "conversation_52",
+            "patterns": [
+                "which state produces more coal"
+            ],
+            "responses": [
+                "Chhattisgarh"
+            ]
+        },
+        {
+            "tag": "conversation_53",
+            "patterns": [
+                "who was the minister in 2015"
+            ],
+            "responses": [
+                "Piyush Goyal"
+            ]
+        },
+        {
+            "tag": "conversation_53",
+            "patterns": [
+                "who is the minister"
+            ],
+            "responses": [
+                "Pralhad Joshi"
+            ]
+        },
+        {
+            "tag": "conversation_54",
+            "patterns": [
+                "how much coal is produced on average"
+            ],
+            "responses": [
+                "produces an average of 562.2 million tonnes of coal per year."
+            ]
+        },
+        {
+            "tag": "conversation_55",
+            "patterns": [
+                "the biggest coal mine in india"
+            ],
+            "responses": [
+                "'s Talcher coalfield is the largest coalfield in India, with estimated reserves of 44.6 billion tonnes. It is located in the Talcher district of Odisha. The coalfield is spread over an area of 1,800 square kilometres (690 sq mi) and is divided into three blocks: Talcher North, Talcher South and Talcher West. The Talcher North block is the largest, with reserves of 26.5 billion tonnes. The Talcher South block has reserves of 13.5 billion tonnes and the Talcher West block has reserves of 4.6 billion tonnes.\n\nThe Talcher coalfield is an important source of coal for India's power sector. The coalfield is served by a number of railway lines, including the Talcher-Bhadrak line, the Talcher-Cuttack line and the Talcher-Angul line. The coalfield is also served by a number of roads, including the National Highway 55 and the State Highway 15.\n\nThe Talcher coalfield is operated by Coal India Limited (CIL). CIL is a state-owned enterprise that is responsible for the production and sale of coal in India. CIL has a number of subsidiaries that are responsible for the mining and production of coal from the Talcher coalfield. These subsidiaries include Talcher Coalfields Limited (TCL), Talcher Area Coal Company Limited (TACC) and Talcher Central Coalfields Limited (TCCL).\n\nThe Talcher coalfield is a major contributor to the Indian economy. The coalfield provides employment for a large number of people and it also generates revenue for the government. The coalfield is also an important source of energy for India's power sector."
+            ]
+        },
+        {
+            "tag": "conversation_56",
+            "patterns": [
+                "in 2023 which state produced more coal in india"
+            ],
+            "responses": [
+                null
+            ]
+        },
+        {
+            "tag": "conversation_57",
+            "patterns": [
+                "which state produced more coal in 2023"
+            ],
+            "responses": [
+                ", Chhattisgarh"
+            ]
+        },
+        {
+            "tag": "conversation_58",
+            "patterns": [
+                "which state produced more coal in 2022"
+            ],
+            "responses": [
+                ", Chhattisgarh"
+            ]
+        },
+        {
+            "tag": "conversation_59",
+            "patterns": [
+                "does Tamil Nadu has a coal plant"
+            ],
+            "responses": [
+                "No, Tamil Nadu does not have a coal plant in the context of the Ministry of Coal India."
+            ]
+        },
+        {
+            "tag": "conversation_60",
+            "patterns": [
+                "coal thermal power plant in tamilnadu"
+            ],
+            "responses": [
+                "The Ministry of Coal (MoC) is the nodal agency of the Government of India for the development and regulation of the coal industry. The MoC is responsible for the exploration, mining, production, transportation, and distribution of coal in India.\n\nThe MoC has a number of initiatives to promote the development of the coal industry in India. These initiatives include:\n\n* The Coal India Limited (CIL) is a state-owned enterprise under the ownership of the MoC. CIL is the largest coal producer in India and accounts for over 80% of the country's coal production.\n* The Ministry of Coal has also set up a number of coal washeries to improve the quality of coal produced in India.\n* The MoC is also promoting the development of coal-based power plants in India. These power plants are helping to meet the growing demand for electricity in the country.\n\nThe MoC is also working to ensure that the coal industry is sustainable and environmentally friendly. These efforts include:\n\n* The MoC is promoting the use of clean coal technologies to reduce emissions from coal-fired power plants.\n* The MoC is also working to develop alternative sources of energy to reduce the reliance on coal.\n\nThe MoC is playing a key role in the development of the coal industry in India. The MoC's initiatives are helping to ensure that India has a reliable supply of coal to meet its growing energy needs.\n\nThe proposed coal thermal power plant in Tamil Nadu is a part of the MoC's efforts to promote the development of the coal industry in India. The plant is expected to generate 1,000 MW of electricity and will help to meet the growing demand for electricity in the state. The plant is also expected to create jobs and boost the economy of Tamil Nadu.\n\nThe proposed coal thermal power plant in Tamil Nadu is a sign of the MoC's commitment to the development of the coal industry in India. The plant is expected to play a key role in meeting the growing demand for electricity in the state and boosting the economy of Tamil Nadu."
+            ]
+        },
+        {
+            "tag": "conversation_61",
+            "patterns": [
+                "who is the minister "
+            ],
+            "responses": [
+                "Pralhad Joshi"
+            ]
+        },
+        {
+            "tag": "conversation_62",
+            "patterns": [
+                "how to get a coal mining license"
+            ],
+            "responses": [
+                "To get a coal mining license in the context of the Ministry of Coal India, you will need to follow these steps:\n\n1. **Submit an application to the Ministry of Coal.** The application must include the following information:\n    * The name of the applicant\n    * The location of the proposed mine\n    * The type of coal that will be mined\n    * The estimated production capacity of the mine\n    * The environmental impact assessment of the mine\n\n2. **Pay the application fee.** The application fee is currently \u20b950,000.\n\n3. **Wait for the Ministry of Coal to review your application.** The Ministry of Coal will review your application and make a decision on whether or not to grant you a license. This process can take up to six months.\n\n4. **If your application is approved, you will be issued a coal mining license.** The license will be valid for a period of five years.\n\n5. **Start mining coal.** Once you have received your license, you can start mining coal. You must comply with all applicable laws and regulations, including the environmental impact assessment.\n\n6. **Renew your license.** Your license will need to be renewed every five years. To renew your license, you will need to submit an application to the Ministry of Coal and pay the renewal fee.\n\nFor more information on how to get a coal mining license, please visit the Ministry of Coal website: https://coal.gov.in/."
+            ]
+        },
+        {
+            "tag": "conversation_63",
+            "patterns": [
+                "cost of 1kg coal"
+            ],
+            "responses": [
+                "'s website, the price of 1kg of coal is Rs. 165.00."
+            ]
+        },
+        {
+            "tag": "conversation_64",
+            "patterns": [
+                "which state produces more coal "
+            ],
+            "responses": [
+                ", Jharkhand"
+            ]
+        },
+        {
+            "tag": "conversation_65",
+            "patterns": [
+                "tamilnadu has coal plants?"
+            ],
+            "responses": [
+                "no"
+            ]
+        },
+        {
+            "tag": "conversation_66",
+            "patterns": [
+                "biggest coal mine in india"
+            ],
+            "responses": [
+                "'s Talcher coalfield is the largest coalfield in India, with estimated reserves of 44.6 billion tonnes. It is located in the Talcher district of Odisha. The coalfield is spread over an area of 1,800 square kilometres (690 sq mi) and is divided into three blocks: Talcher North, Talcher South and Talcher West. The Talcher North block is the largest, with reserves of 26.5 billion tonnes. The Talcher South block has reserves of 13.5 billion tonnes and the Talcher West block has reserves of 4.6 billion tonnes.\n\nThe Talcher coalfield is an important source of coal for India's power sector. The coalfield is served by a number of railway lines, including the Talcher-Bhadrak line, the Talcher-Cuttack line and the Talcher-Angul line. The coalfield is also served by a number of roads, including the National Highway 55 and the State Highway 15.\n\nThe Talcher coalfield is operated by Coal India Limited (CIL). CIL is a state-owned enterprise that is responsible for the production and sale of coal in India. CIL has a number of subsidiaries that are responsible for the mining and production of coal from the Talcher coalfield. These subsidiaries include Talcher Coalfields Limited (TCL), Talcher Area Coal Company Limited (TACC) and Talcher Central Coalfields Limited (TCCL).\n\nThe Talcher coalfield is a major contributor to the Indian economy. The coalfield provides employment for a large number of people and it also generates revenue for the government. The coalfield is also an important source of energy for India's power sector."
+            ]
+        },
+        {
+            "tag": "conversation_67",
+            "patterns": [
+                "how to get coal mining license "
+            ],
+            "responses": [
+                "To get a coal mining license in India, you need to follow these steps:\n\n1. **Apply for a prospecting license.** This license allows you to explore for coal on a particular piece of land. You can apply for a prospecting license online through the Ministry of Coal website.\n2. **Submit a mining plan.** Once you have found coal on your land, you need to submit a mining plan to the Ministry of Coal. The mining plan must include details such as the location of the mine, the type of coal you will be mining, and the environmental impact of the mine.\n3. **Obtain a mining lease.** The Ministry of Coal will review your mining plan and, if it is approved, will issue you a mining lease. The mining lease gives you the right to mine coal on your land for a specified period of time.\n4. **Start mining.** Once you have a mining lease, you can start mining coal on your land. You must comply with all applicable laws and regulations, including the Mines and Minerals (Development and Regulation) Act, 1957.\n\n**Note:** The process of getting a coal mining license can take several months or even years. It is important to be patient and to follow all the necessary steps."
+            ]
+        },
+        {
+            "tag": "conversation_68",
+            "patterns": [
+                "coal mininng license"
+            ],
+            "responses": [
+                "Coal mining is the process of extracting coal from the ground, a vital source of energy worldwide."
+            ]
+        },
+        {
+            "tag": "conversation_69",
+            "patterns": [
+                "mining license procedure"
+            ],
+            "responses": [
+                "The Ministry of Coal is the nodal agency for the development and regulation of the coal industry in India. It is responsible for the formulation and implementation of policies and programmes for the coal sector, and for the administration of the Coal Mines Nationalisation Act, 1973.\n\nThe Ministry of Coal has the following functions:\n\n* Formulating and implementing policies and programmes for the development and regulation of the coal industry.\n* Advising the Government on all matters relating to the coal sector.\n* Promoting research and development in the coal sector.\n* Ensuring the safety and health of workers in the coal sector.\n* Administering the Coal Mines Nationalisation Act, 1973.\n\nThe Ministry of Coal is headed by the Minister of Coal, who is assisted by a Secretary and a number of other officers. The Ministry has a number of divisions, which are responsible for different aspects of the coal sector.\n\nThe procedure for obtaining a mining license in India is as follows:\n\n1. The applicant must submit an application to the Ministry of Coal. The application must include the following information:\n    * The name and address of the applicant.\n    * The location of the proposed mine.\n    * The type of coal that is to be mined.\n    * The estimated production capacity of the mine.\n    * The environmental impact assessment of the mine.\n2. The Ministry of Coal will review the application and, if it is approved, will issue a mining license. The mining license will specify the following:\n    * The area of the mine.\n    * The type of coal that is to be mined.\n    * The production capacity of the mine.\n    * The environmental conditions that must be met by the mine.\n3. The holder of a mining license must comply with all the conditions of the license. The Ministry of Coal has the power to suspend or cancel a mining license if the holder fails to comply with the conditions of the license.\n\nThe Ministry of Coal also has the power to grant exemptions from the provisions of the Coal Mines Nationalisation Act, 1973. These exemptions may be granted for a variety of reasons, such as the development of new technologies or the need to protect the environment.\n\nFor more information on the mining license procedure, please visit the website of the Ministry of Coal: https://coal.gov.in/"
+            ]
+        },
+        {
+            "tag": "conversation_70",
+            "patterns": [
+                "coal renewable or not"
+            ],
+            "responses": [
+                "Coal is classified as a non-renewable resource because it takes millions of years to form and is finite in quantity."
+            ]
+        },
+        {
+            "tag": "conversation_71",
+            "patterns": [
+                "who is the prime minister"
+            ],
+            "responses": [
+                "Narendra Modi"
+            ]
+        },
+        {
+            "tag": "conversation_72",
+            "patterns": [
+                "1kg coal cost"
+            ],
+            "responses": [
+                "'s website, the price of 1kg of coal is Rs. 165.00."
+            ]
+        }
+    ]
+}
